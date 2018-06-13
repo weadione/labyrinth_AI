@@ -1,3 +1,11 @@
-﻿  P2017112238.cpp
-d:\desktop\이서영\대학\수업\2학년\심화프로그래밍\중간 텀 프로젝트\labyrinth\labyrinth\p2017112238.cpp(128): warning C4715: 'P2017112238::nextMove': 모든 제어 경로에서 값을 반환하지는 않습니다.
-  Labyrinth.vcxproj -> D:\Desktop\이서영\대학\수업\2학년\심화프로그래밍\중간 텀 프로젝트\Labyrinth\Debug\Labyrinth.exe
+﻿  GameManager.cpp
+  main.cpp
+  Maze.cpp
+d:\documents\github\labyrinth_ai\labyrinth\labyrinth\mazegenerator.h(285): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  P2013111995.cpp
+  P2017112238.cpp
+  Point.cpp
+  코드를 생성하고 있습니다...
+d:\documents\github\labyrinth_ai\labyrinth\labyrinth\p2017112238.cpp(128): warning C4715: 'P2017112238::nextMove': 모든 제어 경로에서 값을 반환하지는 않습니다.
+d:\documents\github\labyrinth_ai\labyrinth\labyrinth\p2013111995.cpp(26): warning C4715: 'P2013111995::nextMove': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Labyrinth.vcxproj -> D:\Documents\GitHub\labyrinth_AI\Labyrinth\Debug\Labyrinth.exe
