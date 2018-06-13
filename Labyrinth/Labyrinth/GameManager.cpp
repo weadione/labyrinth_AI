@@ -78,6 +78,5 @@ void GameManager::run(Player* player)
 		std::cout << MAX_TURN << "회 안에 미로를 클리어 하지 못하셨습니다! T^T" << std::endl;
 	}
 
-
 	delete player;
 }
